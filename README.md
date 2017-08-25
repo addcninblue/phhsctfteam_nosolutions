@@ -1,19 +1,20 @@
 # Prelim Challenges for PHHS CTF/CS Team
 
 jk, you can still come if you can't solve these :)
-
-
-
-### What am I supposed to do?
-
-Find the hidden flags that are strings in this format:
-
-```
-phhs{somerandomstring}
-```
 <br><br>
 
 
+
+## What am I supposed to do?
+
+Find the hidden flags that are strings in this format:
+**phhs{somerandomstring}**
+
+<br><br>
+
+
+
+## Problems
 
 ### Problem 1: Where's my flag
 
@@ -46,14 +47,23 @@ Sometimes that one friend just loves putting in too much soda and it freaking bu
 
 Find the flag in [this file](simplerop/simplerop)
 <br><br>
-
-
-
-### Think you got the answers?
-
-Come to our first meeting to find out. Keep updated for the location and date!
 <br><br>
 
 
-### Questions or comments?
-email: addison95132@gmail.com, anne.ouyang@gmail.com
+
+
+## What are the answers?
+
+Come to our first meeting to find out. 
+Email us (preferably with solutions) for the time and location for the first meeting.
+<br><br>
+<br><br>
+
+
+
+
+## Questions or comments?
+- email: addison95132@gmail.com, anne.ouyang@gmail.com
+- fb:
+  - Addison Chan (12)
+  - Anne Ouyang (11)
