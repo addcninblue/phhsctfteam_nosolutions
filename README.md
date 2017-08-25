@@ -5,7 +5,11 @@ jk, you should still come if you can't solve these :)
 
 
 
-## What am I supposed to do?
+
+
+## Part I: CTF Problems
+
+### What am I supposed to do?
 
 - [This YouTube video](https://www.youtube.com/watch?v=8ev9ZX9J45A&feature=youtu.be) describes what CTF competitions are
 
@@ -17,8 +21,6 @@ jk, you should still come if you can't solve these :)
 <br><br>
 
 
-
-## CTF Problems
 
 ### Problem 1: Where's my flag
 
@@ -64,7 +66,16 @@ Find the flag in [this file](simplerop/simplerop)
 
 
 
-## Coding Challenges
+## Part II: Coding Challenges
+
+### What am I supposed to do?
+
+- Write code to solve these problems, of course!
+- Try to come up with the most optimized algorithm you can think of.
+
+<br><br>
+
+
 
 ### Challenge 1: Pascal's Triangle
 
@@ -101,7 +112,7 @@ Find the subarray with the largest contiguous sum:
 
 
 
-## What are the answers / want more problems?
+## What are the answers / Want more problems?
 
 Come to our first meeting to find out.
 
