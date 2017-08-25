@@ -16,13 +16,13 @@ phhs{somerandomstring}
 
 ### Problem 1: Where's my flag
 
-Oh no! My little brother took my flag and lost it in his pile of [crap](/wheresmyglag/wheresmyflag)! Help me recover my flag!!!
+Oh no! My little brother took my flag and lost it in his pile of [crap](wheresmyglag/wheresmyflag)! Help me recover my flag!!!
 
 
 
 ### Problem 2: Save my Bacon
 
-I just stole a [test](/leaked-exam/tf-answers.txt) from Mr. Kuang, but he's gonna be super mad... Help me figure out which formula I need on my next math test!!
+I just stole a [test](leaked-exam/tf-answers.txt) from Mr. Kuang, but he's gonna be super mad... Help me figure out which formula I need on my next math test!!
 
 
 
@@ -30,7 +30,7 @@ I just stole a [test](/leaked-exam/tf-answers.txt) from Mr. Kuang, but he's gonn
 
 “the fauLt, dear brutuS, is not in our stars, But in ourselves, that we are underlings.”
 
-Find the flag in [this file](/julius-caesar/Vincenzo_Camuccini_-_La_morte_di_Cesare.png)
+Find the flag in [this file](julius-caesar/Vincenzo_Camuccini_-_La_morte_di_Cesare.png)
 
 hint: hmmm I wonder why the capitalizations feel so weird.
 
@@ -40,7 +40,7 @@ hint: hmmm I wonder why the capitalizations feel so weird.
 
 Sometimes that one friend just loves putting in too much soda and it freaking buffer overflows.
 
-Find the flag in [this file](/simplerop/simplerop)
+Find the flag in [this file](simplerop/simplerop)
 
 
 
